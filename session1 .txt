@@ -1,0 +1,112 @@
+SESSON 1 
+==================
+
+
+ETHICAL : LEGAL
+HACKING : Practice to access any system in this world after that it depends on the hacker what they will do.
+
+----------------------------------------------
+
+
+TYPES OF HACKERS :
+
+1. BLACK HAT HACKERS : They are basically those people who wants just to gain wealth and destruction by doing hacking.
+Eg. Shadow Brokers, THe Lizzared Group etc.
+
+2. WHITE HAT HACKERS : They are those people who hack for the sake of society, and with permission of Organizations so that they can secure themselves.
+Eg. Rahul Tyagi,Ankit Fadiya, etc.
+
+GREY HAT HACKERS : They works for society and religion.
+Eg. Anonymous,Snowden,Julian 
+
+-------------------------------------------------
+
+OTHER CATEGORIES
+=================
+
+1. SCRIPT KIDDIES : THey are basically those people who just copy the original creators source codes and then try to feel others that they are created that. They don't know the technicality of the things.
+
+2. CRACKERS : THese are those people who knows how to bypass the authentication checks via permutations and combinations.
+
+3. NOOBZ : THese are those people who just arrived into the field of HACKING and they dont know the technical aspects.
+
+-----------------------------------------------------
+
+CIA TRIAD 
+==========
+CONFIDENTIALITY :  Every specific confidential data should be kept private and safe from the hand of others.
+
+INTEGERITY : THere should be no dismanipulation and altering of sensitive data should be done.
+
+AVAILABILITY : THe sensitive data should be available to some specific people with the help of access control checks.
+
+--------------------------------------------------------
+
+
+SENSITIVE DATA
+===============
+
+1. CONFIDENTIAL DATA : 
+2. HEALTH INFORMATION : lic, policy numbers, diseases etc. 
+3. FINANCIAL INFO : Bank Account Numbers, Financial Details etc.
+4. PERSONAL INFO : DOB, ADDRESSES, BIRTH CERTIFICATE ETC.
+
+------------------------------------------------------
+
+
+CYBER LAWS
+===========
+two acts : IT ACT 2000, 
+
+CYBER LAWS
+===========
+
+For Cyber Security Domain, there are some acts which are called IT Acts, These acts are for preventing any malicious person black hat hacker to gain access of any system.
+
+The first act was launched and appreciated was IT ACT 2000. Which was having very less acts for the cybrr crimes which are being reported in the constritution.
+
+
+After a new act was launched IT AMENDMENT ACT 2008.
+
+
+-	Section 43 / 43 A- Losses and damages which a person bear due to the harm of any computer.
+
+Improsinment - 1 year and fine is of 2,00,000. or both
+
+-	Section 65 - It covers up the losses and damage of tampering and misuing of any source code.  
+Improsnment - 3 Years and fine for 5 lAC inr. or both
+
+-	Section 66 - Covers up all the Hacking Activities.
+		- Section 66 A - If a person illegally hacks and gain access into a machine he/she will be  arrested. Imrosinment - 3 Years fine is of 1Lac INR. or both
+		- Section 66 C - Identity Theft Crimes done by any individual. Impromsinment - 3 Years Fine 1 Lac INR.
+		- Section 66 F - Covers up all the activities which follows up with Cyber Terrorist.
+		Life Inprisonment, Fine of 10 Lac INR.
+
+-	Section 67 - Covers up all the activities having providing and leading obscene material and adult materials in a public domain.
+Improsinment is for 5 Years fine upto 5 Lac INR or both.
+
+-	Section 70 - Covers up all the activities having misleading and gaining access into Government Restricted Areas.
+IMprisonment is for 5 Years and fine is for 2 LAC or both.
+
+-	Section 71 - It covers up all the Misrepresentaion facts comes along with Identity, Data and other factors.
+Imprisonment for this is 2 Years, with fine of 1 LAC INR.
+
+-	Section 72 - Breaches of CIA Triad (Confidential integrity availability) or termed as aic (Availability,integrity and confidentiality).
+Imprisonment of 10 Years.
+
+-	Section 73 - Covers up all the practices covers and come along with Misleading of Digital Certificates and Signatures.
+Imprisonment of 2 Years, Fine 1 Lac
+
+---------------------------------------------------------
+
+Basic Guide to IT Amendment Act 2008 - https://lucideustech.blogspot.in/2018/02/a-basic-guide-to-indian-it-amendment.html
+
+
+
+
+
+
+
+
+
+https://pastebin.com/yUitQECb

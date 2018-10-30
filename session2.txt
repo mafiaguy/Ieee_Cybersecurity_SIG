@@ -1,0 +1,232 @@
+SESSION 2 - NETWORK TERMINOLOGIES - I
+=====================================
+
+1. Physical Network
+2. Virtual Network
+
+
+Social Network: The network where people gather with each other to communicate and share their resources with each other.
+
+ 
+NETWORK - A network is a place where two or more peripherals or machines interact with each other while sharing their resources.
+ 
+ 
+TYPES OF NETWORK 
+================== 
+1. PAN - Personal Area Network -  eg. Bluetooth etc.
+2. LAN - Local Area Network -  eg. Organizations, Schools etc.
+3. MAN - Metropolitan Area Network - eg. - cyber city , cyber hub etc.
+4. WAN - Wide Area Network - eg. satelites
+
+ 
+NETWORK TOPOLOGIES
+====================
+
+Topologies mean architecture of the network.  
+  
+There are 5 Network Topologies  
+
+1. Star Topology - All machines are connected through the use of the central connecting devices like router, hub, or switch.
+
+2. Ring Topology - All machines are connected in a closed chain or circular shaped sharing there resources unidirectional or bidirectional.
+
+3. Bus Topology - In this, all machines are connected in the form of a bus. eg. Small Corporate Networks
+
+4. Mesh Topology - The messy form of network interconnection.
+
+5. Hybrid Topology - 2 or more topologies are connected with each other.  
+ 
+Disadvantages of Topologies. - Wireless Networks WIFIs came into existence.
+
+PROTOCOLS  
+===========
+ 
+They are the rules and regulation OR guidelines for communication in a  Particular network.
+For example, if two persons are playing table tennis, then both need to go and play by the same rules. None of them should go out of the rules. Likewise, if two devices need to communicate, they need to follow some basic rules. So for that, protocols are used.
+ 
+EG. Protocols in a school -  
+ 
+Cleanliness, Polished Shoes, Cutted Nails, Ironed Shirt, School Uniform, Proper DResses.
+ 
+Well nounced Protocols examples -
+==========================  
+
+IP - Internet Protocol : Logical Address of a network
+TCP : Transmission Control Protocol : Connection Oriented REliable Protocol
+UDP : User Datagram Protocol : Connectionless Protocol
+VOIP : vOICE oVER Internet Protocol : eg. whatsapp calling
+HTTP : Hyper Text TRanfer Protocol
+HTTPS : Hyper Text TRanfer Protocol S (Secure Socket Layer)
+REF :	SSL Versions : SSLv1
+		SSLv2  
+		SSLv3 : TLS  (Transport Layer Security)
+DHCP : Dynamic Host Configuration Protocol
+SMTP : Simple Mail Transfer Protocol : Mailing Services
+IMAP : Internet Messaging Access Protocol
+POP3 : Post Office Protocol v3
+FTP : File Transfer Protocol
+
+
+INTERNET / INTRANET
+====================
+INTERNET is a "inter-connection" of networks which are connected to each other. All other people use their networks by sharing the resources of it with each other. 
+
+INTRANET is a network which is a standalone network and not connected to any other network.
+
+ISP - INTERNET SERVICE PROVIDER - IDEA , JIO ETC. 
+ 
+TYPES OF ADDRESSES IN A PARTICULAR NETWORK
+===========================================
+1. Logical Address/ Virtual address - These address are given to us by the router or isp which can be changed and unique for every network. - IP Address  
+ 
+2. Physical Address - THese addresses are those which are given us by the manufacturer of your machine through its Network Interface Card. - MAC - Media Access Control  
+ 
+
+ 
+IP ADDRESSES
+==============  
+ 
+IP Address is a virtual address, which is unique in a particular network. It is necessary for devices to communicate with the other devices.
+ 
+VERSIONS IP ADDRESSES
+=======================
+ 
+1. IPV4 - 32 BIT ADDRESS -  THese were the NUmerical IP Address which is described by a decimal and divided into an octet differentiated by a period. And in a Particular Network, there can be 2^32 IP Addresses.
+ 
+EG. -     192.168.0.54
+           X.X.X.X
+ 
+DEFINED IN BINARY VALUES - 0 & 1
+
+
+192 : 11000000
+168 : 10101000
+
+
+			192.168.0.11
+			X . X . X . X
+
+
+				for eg.	192.168.0.25
+
+				128 64 32 16 8 4 2 1
+			    1   1	0  0 0 0 0 0 - 192
+			    1   0   1  0 1 0 0 0 - 168
+
+
+ DEFINED IN BINARY VALUES - 0 & 1
+ 
+
+
+2. IPV6 - 128 BIT ADDRESS - these addresses are defined in the form of hexadecimal values.
+ 
+eg. fe80::ab35:75cd:7ac3
+ 
+HEXADECIMAL - 0-9, A-F
+ 
+0    A
+1    B
+2    C
+3    D
+4    E
+5    F
+6
+7
+8
+9
+ 
+2^128 addresses - solution to the shortage of ipv4 addresses -  IPV6
+ 
+Additions from ipv4  
+= Encryption		BRO : 6116WE6D2SD262SD256
+= Tunneling  
+ 
+IP ADDRESS which is not connected to any network is called Loop Back Address/Localhost, and that address is "127.0.0.1". 
+ 
+
+TYPES OF IP ADDRESSES
+======================
+ 
+1. Private IP Addresses - THese IP Addresses are those which are given us by the router to our machine. for eg. - 192.168.0.54
+ 
+2. Public IP Addresses - THese IP Addresses are those which are given to the router by the ISP.
+ 
+Where to find them?
+Private IP Address - Windows - CMD - "ipconfig"  - IP configuration  (ipconfig /all)
+                     UNIX/LINUX -CMD - "ifconfig"  - Interface Configuration
+ 
+PUBLIC IP Address - Google - my ip address,  
+                            http://ipcow.com/
+                            ipchicken.com
+ 
+ 
+User  Information
+=============
+125.63.71.34
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Hostname = 125.63.71.34.reverse.spectranet.in
+Device = X11
+Operating System = Ubuntu
+Browser Name = Firefox
+Browser Version = 60.0
+Is Mobile Device = False
+Is Beta = False
+Screen Resolution = 939 x 704
+
+ ROUTER - GATEWAY. The Private IP Address of a Gateway or a Router is 192.168.0.1 / 192.168.1.1 in most of the cases.
+ 
+ 
+IP CATEGORIZATION ON THE BASIS OF ASSIGNING
+============================================
+ 
+1. Dynamic IP Address - Randomly Generated IP Address by the Router.
+2. Static IP Address - THese IP Addresses are defined by you only on the network configuration according to the network.
+ 
+Priority to Static IP Address as compared to Dynamic IP Addresses. 
+ 
+SUBNET OR SUBNETTING  
+=====================
+Subnet is a subpart of a network.  
+ 
+SUBNETTING = Dividing a particular network into different sub parts.
+ 
+Syntax - 192.168.0.1/24 - THis depicts all the IP Addresses in a particular Subnet.
+ 
+For eg. = 192.168.0.1 - 192.168.0.255  
+More people will come ??  - SUBNETTING
+Solution - 192.168.1.1- 192.168.1.255
+ 
+
+ALL THESE IPs TO EVERYONE ALL OVER THE GLOBE ARE PROVIDE BY A ORGANIZATION NAMED AS "IANA" - internet assigned number authority which allocated global IPs to everyone.
+ 
+ 
+NAT - Network Address Translation
+==================================
+ 
+This is a function which converts my Public IP Address to my Private IP Address and vice versa.  -> NAT (Vmware)
+ 
+
+DHCP AND DHCP SERVER  
+=====================
+DHCP is Dynamic HOst Configuration Protocol which assigned us the dynamic IP to our machine randomly with the help of a SERVER aka DHCP Server. It is situated inside the router.
+ 
+DHCP POOL - Consist all the Network IP's from which they assigned us Dynamic IP to Our Machine.
+ 
+IP Lease Time - the Alive time of the IP Address.
+Mobile: DHCP Configuration
+Router: DHCP
+
+
+TASK  
+====
+ 
+-	What happened to IPV5? 
+-	How Does Torrent work?
+
+
+
+
+
+https://lucideustech.blogspot.in/
+https://thehackernews.com/
+

